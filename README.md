@@ -1,4 +1,4 @@
-# nc-ripple-ripple
+# nc-ripple-rails
 
 A Wrap for nc-ripple
 
