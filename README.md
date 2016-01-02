@@ -1,6 +1,6 @@
 # nc-ripple-rails
 
-A Wrap for nc-ripple
+A wrap for [nc-ripple](https://github.com/qqnc/nc-ripple)
 
 ## Installation
 
